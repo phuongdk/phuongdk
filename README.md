@@ -13,6 +13,8 @@ Welcome to my Github profile. <br>
 - 📫 How to reach me: phuongdkk@gmail.com ✉️
 - ⚡ Fun fact: :octocat: 🐙
 
+<br>
+
 <i>Enjoy Coding!</i> 😊
 
 </div>
