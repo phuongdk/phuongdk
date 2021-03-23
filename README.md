@@ -36,6 +36,9 @@ Welcome to my Github profile. <br>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=phuongdk&count_private=true&show_icons=true&include_all_commits=true&line_height=26&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
+
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdk&layout=compact&theme=dark&text_color=ffffff)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
