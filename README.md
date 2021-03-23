@@ -6,7 +6,7 @@
 
 Welcome to my Github profile. <br>
 
-<i>Happy Coding!</i> 😊
+<i>Enjoy Coding!</i> 😊
 
 </div>
 
