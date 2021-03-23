@@ -34,12 +34,11 @@ Welcome to my Github profile. <br>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=phuongdk&count_private=true&show_icons=true&include_all_commits=true&line_height=26&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdk&layout=compact&theme=dark&text_color=ffffff)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdk&layout=compact&theme=dark&text_color=ffffff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=phuongdk&count_private=true&show_icons=true&include_all_commits=true&line_height=26&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
