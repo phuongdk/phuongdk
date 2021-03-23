@@ -19,7 +19,7 @@ Welcome to my Github profile. <br>
 
 </div>
 
-## :octocat: I am happy to work with
+## :octocat: I'm familiar with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-cfffe5?style=flat-square&logo=Node.js)
@@ -31,7 +31,7 @@ Welcome to my Github profile. <br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff5e13?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-dc143c?style=flat-square&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-ffffff?style=flat-square&logo=Redis)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-c4c3d0?style=flat-square&logo=mysql)
@@ -42,7 +42,7 @@ Welcome to my Github profile. <br>
 
 #### Others
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-800080?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
