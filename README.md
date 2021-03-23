@@ -24,6 +24,7 @@ Welcome to my Github profile. <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-cfffe5?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-ff69b4?style=flat-square&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
 ![React](https://img.shields.io/badge/-React-10a5f5?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-10a5f5?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -32,7 +33,7 @@ Welcome to my Github profile. <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff5e13?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-ffffff?style=flat-square&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+<!--![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) -->
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-c4c3d0?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
