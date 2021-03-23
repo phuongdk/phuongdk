@@ -19,7 +19,7 @@ Welcome to my Github profile. <br>
 
 </div>
 
-## :octocat: Happy to work with
+## :octocat: I am happy to work with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
