@@ -33,7 +33,7 @@ Welcome to my Github profile. <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff5e13?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-ffffff?style=flat-square&logo=Redis)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-c4c3d0?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-8da5ed?style=flat-square&logo=docker)
@@ -74,5 +74,5 @@ Welcome to my Github profile. <br>
 **phuongdk/phuongdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 -->
