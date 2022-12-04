@@ -8,8 +8,8 @@ Welcome to my Github profile. <br>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
 
-- 🔭 I’m currently working on something cool 💓
-- 🌱 I’m currently learning python and kubernetes 💓
+- 🔭 I am a Fullstack Web Developer 💓
+- 🌱 I’m currently learning golang and AWS 💓
 - 📫 How to reach me: phuongdkk@gmail.com ✉️
 - ⚡ Fun fact: :octocat: 🐙
 
