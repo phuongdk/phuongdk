@@ -6,9 +6,13 @@
 
 Welcome to my Github profile. <br>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
-  
-<img src="https://camo.githubusercontent.com/cd0f6999097f9c9ae946becb6a786b05424fdd43780d940453f8bca7556371db/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333303931352f73637265656e73686f74732f333538373030302f31305f636f64696e675f6472696262626c652e676966" alt="Coder GIF" width="500"> <br>
+<div style="display: inline-block; width: 50%"> 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
+<div style="display: inline-block; width: 50%">
+<img src="https://camo.githubusercontent.com/cd0f6999097f9c9ae946becb6a786b05424fdd43780d940453f8bca7556371db/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333303931352f73637265656e73686f74732f333538373030302f31305f636f64696e675f6472696262626c652e676966" alt="Coder GIF" width="500">
+</div>
 
 - 🔭 I am a Fullstack Web Developer 💓
 - 🌱 I’m currently learning golang and AWS 💓
