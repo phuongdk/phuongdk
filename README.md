@@ -15,7 +15,7 @@ Welcome to my Github profile. <br>
 </div>
 
 - 🔭 I am a Fullstack Web Developer 💓
-- 🌱 I’m currently learning golang and AWS 💓
+- 🌱 I’m currently interested in golang, AWS, and cloud-native development💓
 - 📫 How to reach me: phuongdkk@gmail.com ✉️
 - ⚡ Fun fact: :octocat: 🐙
 
@@ -28,22 +28,31 @@ Welcome to my Github profile. <br>
 ## :octocat: I'm familiar with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-cfffe5?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-ff69b4?style=flat-square&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-1572B6?style=flat-square&logo=php)
 ![React](https://img.shields.io/badge/-React-10a5f5?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-10a5f5?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-e81026?style=flat-square&logo=angular)
+![Electron](https://img.shields.io/badge/-Electron-10a5f5?style=flat-square&logo=electron)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-cfffe5?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-ff69b4?style=flat-square&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-1572B6?style=flat-square&logo=go)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+
+
+![Postgresql](https://img.shields.io/badge/-PostgreSQL-14c9c9?style=flat-square&logo=Postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-c4c3d0?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff5e13?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-ffffff?style=flat-square&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![MySQL](https://img.shields.io/badge/-MySQL-c4c3d0?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+<!--- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
+
+
 ![Docker](https://img.shields.io/badge/-Docker-8da5ed?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![K8s](https://img.shields.io/badge/-K8s-8da5ed?style=flat-square&logo=kubernetes)
+![Amazon Web Service](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=aws)
 
 
 #### Others
