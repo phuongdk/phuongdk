@@ -46,14 +46,13 @@ Welcome to my Github profile. <br>
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-14c9c9?style=flat-square&logo=Postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-c4c3d0?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ff5e13?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-ffffff?style=flat-square&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-ffffff?style=flat-square&logo=redis)
 <!--- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
 
 
 ![Docker](https://img.shields.io/badge/-Docker-8da5ed?style=flat-square&logo=docker)
 ![K8s](https://img.shields.io/badge/-K8s-8da5ed?style=flat-square&logo=kubernetes)
-![Amazon Web Service](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=aws)
-
+![Amazon Web Service](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon)
 
 #### Others
 
@@ -65,6 +64,8 @@ Welcome to my Github profile. <br>
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![MacOS](https://img.shields.io/badge/MacOS-232F3E?style=flat-square&logo=apple)
+![Linux](https://img.shields.io/badge/Linux-232C4A?style=flat-square&logo=linux)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdk&layout=compact&theme=dark&text_color=ffffff)
