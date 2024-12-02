@@ -15,7 +15,7 @@ Welcome to my Github profile. <br>
 </div>
 
 - 🔭 I am a Fullstack Web Developer 💓
-- 🌱 I’m currently interested in golang, AWS, and cloud-native development💓
+- 🌱 I’m currently interested in Cloud-native development and Generative AI💓
 - 📫 How to reach me: phuongdkk@gmail.com ✉️
 - ⚡ Fun fact: :octocat: 🐙
 
